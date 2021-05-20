@@ -7,9 +7,7 @@ _Usage:_
 
 Simply drop the folder you want organized on top of the .py, otherwise navigate to the .py on console and add the path to the folder you want organized as first argument, remember to surround the full path with " if it contains spaces.
 
-steps:
- - title: demonstration
-   video: https://streamable.com/e/mt7xrx
+https://user-images.githubusercontent.com/11485235/119030824-af350b00-b9aa-11eb-9cfb-3924862c93fa.mp4
 
 _It will:_
 
@@ -18,3 +16,4 @@ _It will:_
   -Rename all pages according to their volume and chapter and move them to their respective volume, they will keep their proper reading order (if sorted alphabetically)
   
   -Delete the now empty chapter folders
+
