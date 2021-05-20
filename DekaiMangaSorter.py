@@ -10,7 +10,7 @@ path = sys.argv[1]
 for ch in os.listdir(path):
   if not os.path.isdir(os.path.join(path, ch)):
     continue #not a dir
-  if ch[0:1] != 'V':
+  if ch[0:1].capitalize() != 'V':
     continue #no volume
   
   chNoGroup = ch.partition(' [')[0]
