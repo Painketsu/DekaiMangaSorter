@@ -15,6 +15,8 @@ _It will:_
   
   -Rename all pages according to their volume and chapter and move them to their respective volume, they will keep their proper reading order (if sorted alphabetically)
   
+  -Create a .txt with the translation group of each chapter since sometimes there are multiple
+  
   -Delete the now empty chapter folders
 
 _It wont:_
