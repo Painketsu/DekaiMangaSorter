@@ -17,3 +17,6 @@ _It will:_
   
   -Delete the now empty chapter folders
 
+_It wont:_
+
+  -Create a folder or sort chapters without a volume, this is not very common but I've seen it in some ongoing manga
