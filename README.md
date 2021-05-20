@@ -7,7 +7,7 @@ _Usage:_
 
 Simply drop the folder you want organized on top of the .py, otherwise navigate to the .py on console and add the path to the folder you want organized as first argument, remember to surround the full path with " if it contains spaces.
 
-https://user-images.githubusercontent.com/11485235/119030824-af350b00-b9aa-11eb-9cfb-3924862c93fa.mp4
+![2021-05-20_21-01-26](https://user-images.githubusercontent.com/11485235/119034495-aba38300-b9ae-11eb-81d2-95198a816b4d.gif)
 
 _It will:_
 
