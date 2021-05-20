@@ -3,10 +3,15 @@ Script to organize manga from Dekai Manga Archive (https://nyaa.si/view/1304255)
 
 You'll need Python 3+
 
-Usage:
+_Usage:_
+
 Simply drop the folder you want organized on top of the .py, otherwise navigate to the .py on console and add the path to the folder you want organized as first argument, remember to surround the full path with " if it contains spaces.
 
-It will:
+
+_It will:_
+
   -Create a folder for each volume in the same directory
+  
   -Rename all pages according to their volume and chapter and move them to their respective volume, they will keep their proper reading order (if sorted alphabetically)
+  
   -Delete the now empty chapter folders
